@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,6 +62,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\player\\torchflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\torchflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\mawad\\game_project\\haunted-house\\game_home\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +75,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 8,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,6 +99,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
               "Title": "EyeInventory.cs",
               "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyeInventory.cs",
@@ -273,6 +283,18 @@
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T18:44:10.664Z"
+=======
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:45:45.779Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             }
           ]
         }

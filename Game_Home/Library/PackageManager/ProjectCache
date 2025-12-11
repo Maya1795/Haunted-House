@@ -5,7 +5,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 639002089484195974
+=======
+      ticks: 639010627365370411
+>>>>>>> Stashed changes
     m_Hash: 3426649161
   m_LockFileStatus:
     m_FilePath: D:/Mawad/Game_project/Haunted-House/Game_Home/Packages/packages-lock.json
@@ -13,14 +17,22 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 639002089484218396
+=======
+      ticks: 639010627365370411
+>>>>>>> Stashed changes
     m_Hash: 2432238884
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/Mawad/Game_project/Haunted-House/Game_Home/Packages
+<<<<<<< Updated upstream
 m_EditorVersion: 2022.3.62f2 (7670c08855a9)
+=======
+m_EditorVersion: 2022.3.62f3 (96770f904ca7)
+>>>>>>> Stashed changes
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.10.2
   testable: 0
