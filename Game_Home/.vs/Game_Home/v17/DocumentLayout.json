@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,6 +62,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\player\\torchflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\torchflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\mawad\\game_project\\haunted-house\\game_home\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\mawad\\game_project\\haunted-house\\game_home\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\scripts\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +91,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 8,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,6 +115,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
               "Title": "EyeInventory.cs",
               "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyeInventory.cs",
@@ -99,10 +125,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T19:42:55.262Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T01:26:45.332Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
               "Title": "RightEyePickup.cs",
               "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\RightEyePickup.cs",
@@ -113,10 +151,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T19:36:15.541Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 2,
+              "Title": "ZombieHealth.cs",
+              "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ZombieHealth.cs",
+              "ToolTip": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieHealth.cs",
+              "RelativeToolTip": "Assets\\scripts\\ZombieHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T23:56:54.012Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "EyePlacement.cs",
               "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyePlacement.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\EyePlacement.cs",
@@ -125,11 +175,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T19:06:12.475Z",
+=======
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ZombieAI.cs",
+              "ToolTip": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\scripts\\ZombieAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T23:56:38.979Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< Updated upstream
               "Title": "LeftEyePickup.cs",
               "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\LeftEyePickup.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\LeftEyePickup.cs",
@@ -273,6 +334,28 @@
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T18:44:10.664Z"
+=======
+              "Title": "PlayerHeath.cs",
+              "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\PlayerHeath.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerHeath.cs",
+              "ToolTip": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\PlayerHeath.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerHeath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T23:56:26.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirePistol.cs",
+              "DocumentMoniker": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\FirePistol.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FirePistol.cs",
+              "ToolTip": "D:\\Mawad\\Game_project\\Haunted-House\\Game_Home\\Assets\\scripts\\FirePistol.cs",
+              "RelativeToolTip": "Assets\\scripts\\FirePistol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:30:30.261Z"
+>>>>>>> Stashed changes
             }
           ]
         }
