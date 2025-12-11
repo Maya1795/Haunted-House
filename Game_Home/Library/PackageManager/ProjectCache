@@ -7,7 +7,11 @@ m_ProjectFiles:
       serializedVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       ticks: 639002089484195974
+=======
+      ticks: 639010627365370411
+>>>>>>> Stashed changes
 =======
       ticks: 639010627365370411
 >>>>>>> Stashed changes
@@ -23,7 +27,11 @@ m_ProjectFiles:
       serializedVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       ticks: 639002089484218396
+=======
+      ticks: 639010627365370411
+>>>>>>> Stashed changes
 =======
       ticks: 639010627365370411
 >>>>>>> Stashed changes
@@ -38,8 +46,11 @@ m_LocalPackages:
 m_ProjectPath: D:/Mawad/Game_project/Haunted-House/Game_Home/Packages
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 m_EditorVersion: 2022.3.62f2 (7670c08855a9)
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 m_EditorVersion: 2022.3.62f3 (96770f904ca7)
