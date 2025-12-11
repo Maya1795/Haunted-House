@@ -71,6 +71,7 @@
     <Compile Include="Assets\scripts\Object_jump.cs" />
     <Compile Include="Assets\Player\CameraLook.cs" />
     <Compile Include="Assets\scripts\CollideCube_sound.cs" />
+    <Compile Include="Assets\scripts\MainMenu.cs" />
     <Compile Include="Assets\scripts\ZombieAI.cs" />
     <Compile Include="Assets\scripts\CandlePickUp.cs" />
     <Compile Include="Assets\scripts\WebBurn.cs" />
