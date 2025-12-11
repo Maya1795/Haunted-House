@@ -128,7 +128,10 @@ GameObject:
   m_PrefabInstance: {fileID: 143437089}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!4 &42220823 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6131392131892989093, guid: 1c11f34e74381ed4492500eee54a165f, type: 3}
@@ -2725,7 +2728,10 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c3e54670f1114c709157026c232cfeb, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!108 &602320733
 Light:
   m_ObjectHideFlags: 0
@@ -2959,6 +2965,9 @@ Transform:
   - {fileID: 1777378086}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1 &615891621
 GameObject:
@@ -12193,6 +12202,43 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1204424117}
+<<<<<<< Updated upstream
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1992614677
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1992614678}
+  m_Layer: 0
+  m_Name: Weapon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1992614678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992614677}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -84.90596, y: 79.98182, z: -48.15493}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1405199476}
+  - {fileID: 827136477}
+  - {fileID: 471809089}
+  m_Father: {fileID: 0}
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2006419231 stripped
 GameObject:
@@ -18059,6 +18105,7 @@ SceneRoots:
   - {fileID: 457708640}
   - {fileID: 304496614}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 143437089}
   - {fileID: 648832298}
   - {fileID: 1322617203}
@@ -18075,10 +18122,15 @@ SceneRoots:
   - {fileID: 1950415520}
   - {fileID: 1777378086}
 =======
+=======
+>>>>>>> Stashed changes
   - {fileID: 1992614678}
   - {fileID: 58057677}
   - {fileID: 27399845}
   - {fileID: 1204424117}
   - {fileID: 607383867}
   - {fileID: 805719814}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
