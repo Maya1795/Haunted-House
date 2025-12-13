@@ -6,6 +6,8 @@ public class ZombieHealth : MonoBehaviour
     private ZombieAI zombieAI;
     private GameManager gameManager;
 
+
+
     void Start()
     {
         zombieAI = GetComponent<ZombieAI>();

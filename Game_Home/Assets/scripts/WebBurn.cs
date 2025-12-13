@@ -12,6 +12,7 @@ public class WebBurn : MonoBehaviour
     [SerializeField] GameObject flameObject;
     [SerializeField] GameObject webObjects;
     [SerializeField] GameObject handCandle;
+    public AudioSource audioSource_win;
 
     void Update()
     {
@@ -58,6 +59,8 @@ public class WebBurn : MonoBehaviour
         webObjects.SetActive(false);
         flameObject.SetActive(false);
         fadeIn.SetActive(true);
+        if (audioSource_win != null)
+            audioSource_win.Play();
         yield return new WaitForSeconds(2);
         fadeIn.SetActive(false);
         thePlayer.SetActive(true);
