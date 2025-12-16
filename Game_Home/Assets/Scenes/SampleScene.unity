@@ -2969,15 +2969,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6131392131892989093, guid: 1c11f34e74381ed4492500eee54a165f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.135
+      value: -0.898
       objectReference: {fileID: 0}
     - target: {fileID: 6131392131892989093, guid: 1c11f34e74381ed4492500eee54a165f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.134
+      value: -0.14
       objectReference: {fileID: 0}
     - target: {fileID: 6131392131892989093, guid: 1c11f34e74381ed4492500eee54a165f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.032
+      value: 1.108
       objectReference: {fileID: 0}
     - target: {fileID: 6131392131892989093, guid: 1c11f34e74381ed4492500eee54a165f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4592,9 +4592,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   muzzleFlashPrefab: {fileID: 1782395880954752, guid: 3dd9cf2e209c504448f1c4c6835675cf, type: 3}
+  bulletPrefab: {fileID: 339832906122077082, guid: d6b9227ae36f7114089e3a6860ccfc22, type: 3}
   gunShotSound: {fileID: 8300000, guid: 3061c7b9b32d894478e4126ccce25ca3, type: 3}
   timeBetweenShots: 0.5
-  killRange: 1000
 --- !u!95 &911449313
 Animator:
   serializedVersion: 5

@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
             if (audioSource_win != null)
                 audioSource_win.Play();
             winText.gameObject.SetActive(true);
-            winText.text = "YOU WIN!\nZombie eliminated!\nPress R to Restart";
+            winText.text = "YOU WIN!\nZombie eliminated!";
         }
         
         Time.timeScale = 0f;
@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
         if (gameEnded && Input.GetKeyDown(KeyCode.R))
         {
             Time.timeScale = 1f;
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }

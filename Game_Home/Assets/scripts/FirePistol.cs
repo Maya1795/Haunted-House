@@ -4,9 +4,9 @@ using System.Collections;
 public class FirePistol : MonoBehaviour
 {
     public GameObject muzzleFlashPrefab;
+    public GameObject bulletPrefab; // <-- This is your flying bullet (e.g., 45ACP_Projectile)
     public AudioClip gunShotSound;
     public float timeBetweenShots = 0.5f;
-    public float killRange = 1000f; 
 
     private AudioSource audioPlayer;
     private bool canShoot = true;
@@ -16,7 +16,7 @@ public class FirePistol : MonoBehaviour
     {
         audioPlayer = gameObject.AddComponent<AudioSource>();
         audioPlayer.playOnAwake = false;
-        player = transform; 
+        player = transform; // Assumes this script is on the gun/hand that faces forward
     }
 
     void Update()
@@ -31,6 +31,7 @@ public class FirePistol : MonoBehaviour
     {
         canShoot = false;
 
+        // --- Muzzle Flash ---
         if (muzzleFlashPrefab != null)
         {
             Vector3 muzzlePos = player.position + player.forward * 1f;
@@ -39,19 +40,17 @@ public class FirePistol : MonoBehaviour
             Destroy(flash, 0.2f);
         }
 
+        // --- Gunshot Sound ---
         if (gunShotSound != null)
         {
             audioPlayer.PlayOneShot(gunShotSound);
         }
 
-        ZombieHealth zombie = FindObjectOfType<ZombieHealth>();
-        if (zombie != null)
+        // --- Shoot the Bullet ---
+        if (bulletPrefab != null)
         {
-            float distance = Vector3.Distance(player.position, zombie.transform.position);
-            if (distance <= killRange)
-            {
-                zombie.KillZombie();
-            }
+            Vector3 spawnPosition = player.position + player.forward * 1f;
+            Instantiate(bulletPrefab, spawnPosition, player.rotation);
         }
 
         StartCoroutine(ResetGunCooldown());
@@ -62,7 +61,7 @@ public class FirePistol : MonoBehaviour
         float timer = timeBetweenShots;
         while (timer > 0f)
         {
-            timer -= Time.unscaledDeltaTime;
+            timer -= Time.unscaledDeltaTime; // Respects Time.timeScale = 0 (e.g., during pause/win)
             yield return null;
         }
         canShoot = true;
