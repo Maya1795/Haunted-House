@@ -9,7 +9,7 @@ public class MetalDoor : MonoBehaviour
     {
         if (PlayerCasting.distanceFromTarget < 5)
         {
-            UIController.actionText = "Open Door";
+            UIController.actionText = "This door leads deeper into the building,away from everything familiar";
             UIController.commandText = "Enter";
             UIController.uiActive = true;
         }

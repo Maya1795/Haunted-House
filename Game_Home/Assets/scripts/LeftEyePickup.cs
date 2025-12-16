@@ -28,7 +28,7 @@ public class LeftEyePickup : MonoBehaviour
         if (PlayerCasting.distanceFromTarget < 5)
         {
             eyePick = true;
-            UIController.actionText = "Eye";
+            UIController.actionText = "The severed left eye twitches slightly, its gaze locked onto you";
             UIController.commandText = "[P] Pick Up";
             UIController.uiActive = true;
         }

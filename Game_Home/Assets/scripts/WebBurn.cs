@@ -29,7 +29,7 @@ public class WebBurn : MonoBehaviour
         if (PlayerCasting.distanceFromTarget < 5)
         {
             canPick = true;
-            UIController.actionText = "Spider Web";
+            UIController.actionText = "A dense spider web covers the wall, collecting dust and silence";
             UIController.commandText = "[E] Burn";
             UIController.uiActive = true;
         }

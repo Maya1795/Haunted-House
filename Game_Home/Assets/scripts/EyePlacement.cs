@@ -40,14 +40,14 @@ public class EyePlacement : MonoBehaviour
             if (EyeInventory.leftEyeCollected && EyeInventory.rightEyeCollected)
             {
                 eyePick = true;
-                UIController.actionText = "Place Eyes Pieces";
+                UIController.actionText = "Both eyes pulse with a cold presence...\nThe ritual is ready to be completed";
                 UIController.commandText = "[P] Place";
                 UIController.uiActive = true;
             }
             else
             {
                 eyePick = false;
-                UIController.actionText = "You still need an eye piece!";
+                UIController.actionText = "The altar rejects you...\nBoth eyes must be returned before it will awaken";
                 UIController.commandText = "";
                 UIController.uiActive = true;
             }

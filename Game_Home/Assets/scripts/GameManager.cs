@@ -1,0 +1,60 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using TMPro;
+
+public class GameManager : MonoBehaviour
+{
+    public TextMeshProUGUI gameOverText;
+    public TextMeshProUGUI winText;
+    public AudioSource audioSource_death;
+    public AudioSource audioSource_win;
+
+    private bool gameEnded = false;
+    
+    void Start()
+    {
+        if (gameOverText != null) gameOverText.gameObject.SetActive(false);
+        if (winText != null) winText.gameObject.SetActive(false);
+    }
+    
+    public void PlayerLoses()
+    {
+        if (gameEnded) return;
+        gameEnded = true;
+        
+        if (gameOverText != null)
+        {
+            if (audioSource_death != null)
+                audioSource_death.Play();
+            gameOverText.gameObject.SetActive(true);
+            gameOverText.text = "GAME OVER\n\nThe zombie tore you apart\nThere is nothing left but blood\n\nPress R to Restart";
+        }
+        
+        Time.timeScale = 0f;
+    }
+    
+    public void PlayerWins()
+    {
+        if (gameEnded) return;
+        gameEnded = true;
+        
+        if (winText != null)
+        {
+            if (audioSource_win != null)
+                audioSource_win.Play();
+            winText.gameObject.SetActive(true);
+            winText.text = "YOU WIN\n\nThe creature collapses\nIts nightmare finally ends";
+        }
+        
+        Time.timeScale = 0f;
+    }
+    
+    void Update()
+    {
+        if (gameEnded && Input.GetKeyDown(KeyCode.R))
+        {
+            Time.timeScale = 1f;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+    }
+}

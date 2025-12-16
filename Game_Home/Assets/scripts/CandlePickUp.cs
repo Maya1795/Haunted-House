@@ -29,7 +29,7 @@ public class CandlePickUp : MonoBehaviour
         if (PlayerCasting.distanceFromTarget < 5)
         {
             canPick = true;
-            UIController.actionText = "Candle";
+            UIController.actionText = "A candle lights your way\nFind the web and burn it";
             UIController.commandText = "[E] Pick Up";
             UIController.uiActive = true;
         }
