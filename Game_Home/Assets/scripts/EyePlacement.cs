@@ -8,6 +8,7 @@ public class EyePlacement : MonoBehaviour
     [SerializeField] GameObject textOnScreen;
     [SerializeField] GameObject fulleye;
     [SerializeField] GameObject fadeIn;
+    public AudioSource audioSource_win;
 
     void Update()
     {
@@ -65,6 +66,8 @@ public class EyePlacement : MonoBehaviour
     IEnumerator Eyepieces()
     {
         fadeIn.SetActive(true);
+        if (audioSource_win != null)
+            audioSource_win.Play();
         yield return new WaitForSeconds(2);
         fadeIn.SetActive(false);
     }

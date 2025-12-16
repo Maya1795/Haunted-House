@@ -1,34 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\",
+  "WorkspaceRootPath": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\projects \u0026 assignments\\game\\project\\haunted-house\\game_home\\assets\\player\\torchflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\torchflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\uni\\game design\\project\\haunted-house\\game_home\\assets\\pause menue\\pausemenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\pause menue\\pausemenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\projects \u0026 assignments\\game\\project\\haunted-house\\game_home\\assets\\player\\torch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\torch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\uni\\game design\\project\\haunted-house\\game_home\\assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\assets\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\assets\\player\\autodoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\autodoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\eyeplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eyeplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\assets\\player\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\assets\\player\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\assets\\player\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\righteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\righteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\object_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\object_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\metaldoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\metaldoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\lefteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lefteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\gunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\eyeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eyeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\collidecube_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collidecube_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,94 +81,238 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 34,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TorchFlicker.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\TorchFlicker.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\TorchFlicker.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\TorchFlicker.cs",
-              "RelativeToolTip": "Assets\\Player\\TorchFlicker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "PauseMenue.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\Pause Menue\\PauseMenue.cs",
+              "RelativeDocumentMoniker": "Assets\\Pause Menue\\PauseMenue.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\Pause Menue\\PauseMenue.cs",
+              "RelativeToolTip": "Assets\\Pause Menue\\PauseMenue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T21:06:23.381Z",
+              "WhenOpened": "2025-12-16T14:28:27.167Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "torch.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\torch.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\torch.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\torch.cs",
-              "RelativeToolTip": "Assets\\Player\\torch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T21:05:55.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutoDoor.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\AutoDoor.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\AutoDoor.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\AutoDoor.cs",
-              "RelativeToolTip": "Assets\\Player\\AutoDoor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T19:21:45.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IInteractable.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\IInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\IInteractable.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\IInteractable.cs",
-              "RelativeToolTip": "Assets\\Player\\IInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T19:02:03.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Interact.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\Interact.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\Interact.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\Interact.cs",
-              "RelativeToolTip": "Assets\\Player\\Interact.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAAOAAAAAAAAAA==",
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ZombieAI.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\scripts\\ZombieAI.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T18:46:37.048Z"
+              "WhenOpened": "2025-12-13T18:10:42.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CameraLook.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\CameraLook.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\CameraLook.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\CameraLook.cs",
-              "RelativeToolTip": "Assets\\Player\\CameraLook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "RightEyePickup.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\RightEyePickup.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\RightEyePickup.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\RightEyePickup.cs",
+              "RelativeToolTip": "Assets\\scripts\\RightEyePickup.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T18:45:17.534Z"
+              "WhenOpened": "2025-12-13T18:10:12.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Object_jump.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\Object_jump.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Object_jump.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\Object_jump.cs",
+              "RelativeToolTip": "Assets\\scripts\\Object_jump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:09:53.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MetalDoor.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\MetalDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MetalDoor.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\MetalDoor.cs",
+              "RelativeToolTip": "Assets\\scripts\\MetalDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:09:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerCasting.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\PlayerCasting.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerCasting.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\PlayerCasting.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerCasting.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:05:03.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHeath.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\PlayerHeath.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerHeath.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\PlayerHeath.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerHeath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:44:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebBurn.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\WebBurn.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\WebBurn.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\WebBurn.cs",
+              "RelativeToolTip": "Assets\\scripts\\WebBurn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:08:05.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Player\\PlayerController.cs",
-              "ToolTip": "D:\\Projects \u0026 Assignments\\Game\\Project\\Haunted-House\\Game_Home\\Assets\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Player\\PlayerController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T18:44:10.664Z"
+              "WhenOpened": "2025-12-13T17:55:49.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EyePlacement.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyePlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EyePlacement.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyePlacement.cs",
+              "RelativeToolTip": "Assets\\scripts\\EyePlacement.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:03:50.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZombieHealth.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ZombieHealth.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\ZombieHealth.cs",
+              "RelativeToolTip": "Assets\\scripts\\ZombieHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:10:50.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:09:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeftEyePickup.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\LeftEyePickup.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LeftEyePickup.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\LeftEyePickup.cs",
+              "RelativeToolTip": "Assets\\scripts\\LeftEyePickup.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:09:31.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UIController.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\scripts\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:05:16.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GunPickup.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\GunPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GunPickup.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\GunPickup.cs",
+              "RelativeToolTip": "Assets\\scripts\\GunPickup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:09:16.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EyeInventory.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyeInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EyeInventory.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\EyeInventory.cs",
+              "RelativeToolTip": "Assets\\scripts\\EyeInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:08:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollideCube_sound.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\CollideCube_sound.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CollideCube_sound.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\CollideCube_sound.cs",
+              "RelativeToolTip": "Assets\\scripts\\CollideCube_sound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:08:23.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirePistol.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\FirePistol.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FirePistol.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\FirePistol.cs",
+              "RelativeToolTip": "Assets\\scripts\\FirePistol.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:04:36.93Z"
             }
           ]
         }
