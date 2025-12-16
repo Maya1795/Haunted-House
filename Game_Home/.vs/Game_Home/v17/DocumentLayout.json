@@ -1,74 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\menna\\HOME\\Game_Home\\",
+  "WorkspaceRootPath": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\webburn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\eyeplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eyeplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\righteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\righteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\object_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\object_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\metaldoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\metaldoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\lefteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lefteyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\gunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\eyeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eyeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|c:\\users\\menna\\home\\game_home\\assets\\scripts\\collidecube_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collidecube_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|d:\\uni\\game design\\project\\haunted-house\\game_home\\assets\\scripts\\candlepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB578A-936A-3DFC-04D9-7B0A95CFCFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\candlepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,246 +18,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 34,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ZombieAI.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\ZombieAI.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ZombieAI.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\ZombieAI.cs",
-              "RelativeToolTip": "Assets\\scripts\\ZombieAI.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CandlePickUp.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\CandlePickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CandlePickUp.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\CandlePickUp.cs",
+              "RelativeToolTip": "Assets\\scripts\\CandlePickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:10:42.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RightEyePickup.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\RightEyePickup.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\RightEyePickup.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\RightEyePickup.cs",
-              "RelativeToolTip": "Assets\\scripts\\RightEyePickup.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:10:12.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Object_jump.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\Object_jump.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Object_jump.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\Object_jump.cs",
-              "RelativeToolTip": "Assets\\scripts\\Object_jump.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:09:53.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MetalDoor.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\MetalDoor.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\MetalDoor.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\MetalDoor.cs",
-              "RelativeToolTip": "Assets\\scripts\\MetalDoor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:09:47.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerCasting.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\PlayerCasting.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerCasting.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\PlayerCasting.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerCasting.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:05:03.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerHeath.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\PlayerHeath.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerHeath.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\PlayerHeath.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerHeath.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T15:44:07.384Z",
+              "WhenOpened": "2025-12-16T15:23:19.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WebBurn.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\WebBurn.cs",
+              "DocumentMoniker": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\WebBurn.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\WebBurn.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\WebBurn.cs",
+              "ToolTip": "D:\\uni\\Game Design\\Project\\Haunted-House\\Game_Home\\Assets\\scripts\\WebBurn.cs",
               "RelativeToolTip": "Assets\\scripts\\WebBurn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T18:08:05.999Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T17:55:49.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EyePlacement.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\EyePlacement.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\EyePlacement.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\EyePlacement.cs",
-              "RelativeToolTip": "Assets\\scripts\\EyePlacement.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:03:50.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ZombieHealth.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\ZombieHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ZombieHealth.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\ZombieHealth.cs",
-              "RelativeToolTip": "Assets\\scripts\\ZombieHealth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:10:50.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:09:39.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LeftEyePickup.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\LeftEyePickup.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\LeftEyePickup.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\LeftEyePickup.cs",
-              "RelativeToolTip": "Assets\\scripts\\LeftEyePickup.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:09:31.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UIController.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\UIController.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\UIController.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\UIController.cs",
-              "RelativeToolTip": "Assets\\scripts\\UIController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:05:16.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GunPickup.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\GunPickup.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\GunPickup.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\GunPickup.cs",
-              "RelativeToolTip": "Assets\\scripts\\GunPickup.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:09:16.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EyeInventory.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\EyeInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\EyeInventory.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\EyeInventory.cs",
-              "RelativeToolTip": "Assets\\scripts\\EyeInventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:08:31.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CollideCube_sound.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\CollideCube_sound.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\CollideCube_sound.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\CollideCube_sound.cs",
-              "RelativeToolTip": "Assets\\scripts\\CollideCube_sound.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:08:23.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FirePistol.cs",
-              "DocumentMoniker": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\FirePistol.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\FirePistol.cs",
-              "ToolTip": "C:\\Users\\menna\\HOME\\Game_Home\\Assets\\scripts\\FirePistol.cs",
-              "RelativeToolTip": "Assets\\scripts\\FirePistol.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:04:36.93Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
